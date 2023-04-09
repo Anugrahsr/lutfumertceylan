@@ -9,12 +9,16 @@
 
 
 <p align="left">
-![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
+  <img src="https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight">
 </p>
 
 <p align="right">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)
+  <img src="[https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)">
 </p>
+  
+![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)
+
   
 ![Metrics](https://metrics.lecoq.io/lutfumertceylan)
 
