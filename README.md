@@ -1,6 +1,5 @@
 [![](https://raw.githubusercontent.com/lutfumertceylan/lutfumertceylan/main/chat.svg)](https://www.linkedin.com/in/lutfumertceylan/)
 
-<!--- Maybe in future
 [![Linkedin Badge](https://img.shields.io/badge/-Artem%20Kulikov-e9e9e9?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lutfumertceylan/)](https://www.linkedin.com/in/lutfumertceylan/) 
 [![Gmail Badge](https://img.shields.io/badge/-lutfu.mertceylan@owasp.org-e9e9e9?style=flat&logo=Gmail&logoColor=red&link=mailto:lutfu.mertceylan@owasp.org)](mailto:lutfu.mertceylan@owasp.org)
 
@@ -36,5 +35,3 @@
 <a href="https://lutfumertceylan.com.tr/posts/alertbox-manipulation-base64/">EN | Alert-box Message Content Manipulation based Base64</a><br>
 <a href="https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/">EN | Account Takeover and Sensitive Data Leakage via CORS Misconfiguration</a><br>
 <a href="https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/">EN | Stored XSS with Password Recovery Page</a><br>
-
--->
