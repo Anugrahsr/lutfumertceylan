@@ -274,8 +274,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a team lead/project manager.</text>
-    <text x="15" y="50">Certified KMP, PSPO I, ICP/ICP-ATF, Microsoft specialist.</text>
+    <text x="15" y="27">I’m a team security researcher/community founder.</text>
+    <text x="15" y="50">Security Researcher zerocopter OWASP Poland Chapter founder trbughunters lead of project paramatter.art lutfu.mertceylan@owasp.org</text>
   </g>
 
   <!-- typing 3 -->
@@ -295,10 +295,10 @@
     </circle>
   </g>
 
-  <!-- From Istanbul... -->
+  <!-- From Warsaw... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently I live in Istanbul where it’s supposed to be</text>
+    <text x="15" y="27">Currently I live in Warsaw where it’s supposed to be</text>
     <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
@@ -324,7 +324,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="255" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on <a xlink:href="https://www.linkedin.com/in/akulikov/">LinkedIn</a>.
+      You can find me on <a xlink:href="https://www.linkedin.com/in/lutfumertceylan/">LinkedIn</a>.
     </text>
   </g>
 
