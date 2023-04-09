@@ -7,15 +7,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Lütfü%20Mert%20Ceylan-e9e9e9?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/lutfumertceylan/)](https://twitter.com/lutfumertceylan/) 
 [![GitHub Badge](https://img.shields.io/badge/-lutfumertceylan-e9e9e9?style=flat&logo=GitHub&logoColor=red&link=https://github.com/lutfumertceylan)](https://github.com/lutfumertceylan)
 
-<p align="center">
-  <a href="http://twitter.com/lutfumertceylan">
-    <img src="https://img.shields.io/twitter/follow/lutfumertceylan?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/lutfumertceylan?tab=followers">
-    <img src="https://img.shields.io/github/followers/lutfumertceylan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
-
 ![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)
