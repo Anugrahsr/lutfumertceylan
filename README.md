@@ -1,11 +1,14 @@
 [![](https://raw.githubusercontent.com/lutfumertceylan/lutfumertceylan/main/chat.svg)](https://www.linkedin.com/in/lutfumertceylan/)
 
 ------
-
+<center>
+  
 [![Linkedin Badge](https://img.shields.io/badge/-Lütfü%20Mert%20Ceylan-e9e9e9?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lutfumertceylan/)](https://www.linkedin.com/in/lutfumertceylan/) 
 [![Gmail Badge](https://img.shields.io/badge/-lutfu.mertceylan@owasp.org-e9e9e9?style=flat&logo=Gmail&logoColor=red&link=mailto:lutfu.mertceylan@owasp.org)](mailto:lutfu.mertceylan@owasp.org)
 [![Twitter Badge](https://img.shields.io/badge/-Lütfü%20Mert%20Ceylan-e9e9e9?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/lutfumertceylan/)](https://twitter.com/lutfumertceylan/) 
 [![GitHub Badge](https://img.shields.io/badge/-lutfumertceylan-e9e9e9?style=flat&logo=GitHub&logoColor=red&link=https://github.com/lutfumertceylan)](https://github.com/lutfumertceylan)
+  
+ </center>
 
 ![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
 
