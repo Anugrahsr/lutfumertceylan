@@ -1,11 +1,6 @@
 [![](https://raw.githubusercontent.com/lutfumertceylan/lutfumertceylan/main/chat.svg)](https://www.linkedin.com/in/lutfumertceylan/)
 
-
-![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)
-
-![Metrics](https://metrics.lecoq.io/lutfumertceylan)
+------
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lütfü%20Mert%20Ceylan-e9e9e9?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lutfumertceylan/)](https://www.linkedin.com/in/lutfumertceylan/) 
 [![Gmail Badge](https://img.shields.io/badge/-lutfu.mertceylan@owasp.org-e9e9e9?style=flat&logo=Gmail&logoColor=red&link=mailto:lutfu.mertceylan@owasp.org)](mailto:lutfu.mertceylan@owasp.org)
@@ -18,6 +13,12 @@
     <img src="https://img.shields.io/github/followers/lutfumertceylan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
+
+![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)
+
+![Metrics](https://metrics.lecoq.io/lutfumertceylan)
 
 ------
 
